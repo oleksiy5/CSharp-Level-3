@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\bin\Debug\CSharp-Level-3.exe.config
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\bin\Debug\CSharp-Level-3.exe
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\bin\Debug\CSharp-Level-3.pdb
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\obj\Debug\CSharp-Level-3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\obj\Debug\CSharp-Level-3.exe
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\obj\Debug\CSharp-Level-3.pdb
+C:\Users\Oleksiy\Desktop\CSharp-syntax-mega-pack\AdvanceLevel\CSharp-Level-3\CSharp-Level-3\CSharp-Level-3\obj\Debug\CSharp-Level-3.csprojResolveAssemblyReference.cache
